@@ -7,7 +7,11 @@ import express, {
 import dotenv from 'dotenv';
 import morgan from 'morgan';
 
-//import userRoutes from './users/routes/userRoutes';
+import routerUser from '../src/models/User/routes';
+import routerUserRole from '../src/models/UserRole/routes';
+import routerFood from '../src/models/Food/routes';
+import routerCoordinate from '../src/models/Coordinate/routes';
+import routerRestaurant from '../src/models/Restaurant/routes';
 
 dotenv.config();
 
@@ -16,7 +20,11 @@ const app: Application = express();
 app.use(morgan('dev'));
 app.use(express.json());
 
-//app.use(userRoutes);
+app.use(routerUser);
+app.use(routerUserRole);
+app.use(routerFood)
+app.use(routerCoordinate)
+app.use(routerRestaurant)
 
 app.use(function (err: any, req: Request, res: Response, next: NextFunction) {
   res
