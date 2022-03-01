@@ -12,6 +12,7 @@ import routerUserRole from '../src/models/UserRole/routes';
 import routerFood from '../src/models/Food/routes';
 import routerCoordinate from '../src/models/Coordinate/routes';
 import routerRestaurant from '../src/models/Restaurant/routes';
+import routerAuth from '../src/auth/router/authRouter';
 
 dotenv.config();
 
@@ -22,9 +23,10 @@ app.use(express.json());
 
 app.use(routerUser);
 app.use(routerUserRole);
-app.use(routerFood)
-app.use(routerCoordinate)
-app.use(routerRestaurant)
+app.use(routerFood);
+app.use(routerCoordinate);
+app.use(routerRestaurant);
+app.use(routerAuth);
 
 app.use(function (err: any, req: Request, res: Response, next: NextFunction) {
   res
