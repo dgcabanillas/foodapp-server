@@ -9,9 +9,14 @@ export type TTokenResponse = {
   refreshToken: string;
 };
 
-export type TCreateUser = Omit<IUser, 'id' | 'createdAt' | 'editedAt' | 'coordinate_id'>;
+export type TCreateUser = {
+  name: string;
+  email: string;
+  password: string;
+  phoneNumber: string;
+}
 
 export type TLoginUser = {
-  password: string;
   email: string;
+  password: string;
 };

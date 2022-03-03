@@ -7,7 +7,6 @@ export interface IUser {
   password: string
   phoneNumber: string
   role_id: Types.ObjectId
-  coordinate_id: Types.ObjectId
   createdAt: Date
   updatedAt: Date
 }

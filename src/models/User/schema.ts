@@ -24,11 +24,6 @@ export const UserSchema = new Schema<IUser>({
     ref: 'UserRole',
     required: [true, 'role id is required']
   },
-  coordinate_id: {
-    type: Schema.Types.ObjectId,
-    ref: 'Coordinate',
-    required: [true, 'coordinate id is required']
-  },
   createdAt: {
     type: Date,
     default: new Date(),
