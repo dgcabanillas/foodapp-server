@@ -2,14 +2,7 @@ import { Schema } from 'mongoose';
 import { IUserRole } from './types';
 
 export const UserRoleSchema = new Schema<IUserRole>({
-  role: {
-    type: String,
-  },
-  description: {
-    type: String,
-    required: [true, ' email is required'],
-    unique: true,
-  }
+  role: String
 });
 
 UserRoleSchema.virtual('users', {
