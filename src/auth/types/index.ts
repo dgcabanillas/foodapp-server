@@ -1,4 +1,4 @@
-import { IUser } from "../../models/User/types";
+import { IUser } from "../../collections/Users/entity/types/type";
 
 export type TCreateToken = {
   userId: string;

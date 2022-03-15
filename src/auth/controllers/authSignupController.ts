@@ -13,7 +13,7 @@ export const authSignup = async (
     console.log(req.body);
     const newUser = await authCreateUserService(req.body);
     const token = authCreateTokenService(newUser.id);
-    res.status(200).json({ token });
+    res.status(200).json('User created');
   } catch (error: any) {
     next(new ApplicationError(400, error.message));
   }
