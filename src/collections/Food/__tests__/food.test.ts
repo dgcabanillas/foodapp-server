@@ -26,10 +26,7 @@ describe('Foods',()=>{
 
     describe('post',()=>{
         it('should return status 400 when no user is logged in', async()=>{
-           const result=await supertest(app).post('/foods').expect(400);
-           console.log(result);
-               
+           const result=await supertest(app).post('/foods').expect(400); 
         });
     });
-
 });

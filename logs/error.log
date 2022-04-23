@@ -2647,3 +2647,2020 @@
        fn:undefined 
 
        trace: error updating the project with id 622f97f1b7e0827575b3415c
+2022-03-15 17:17:34:1734 
+       [31merror[39m: [31merror deleting project with id [39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: Cast to ObjectId failed for value "" (type string) at path "owner" for model "Project"
+2022-03-15 17:17:34:1734 
+       [31merror[39m: [31merror deleting project with id 123[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: Cast to ObjectId failed for value "" (type string) at path "owner" for model "Project"
+2022-03-15 17:17:44:1744 
+       [31merror[39m: [31merror deleting project with id 62110223136fa11f93eace83[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: Operation `projects.findOne()` buffering timed out after 10000ms
+2022-03-15 17:17:49:1749 
+       [31merror[39m: [31merror deleting project with id 62110223136fa11f93eace83[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: Operation `projects.findOne()` buffering timed out after 10000ms
+2022-03-15 17:36:06:366 
+       [31merror[39m: [31merror deleting project with id [39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: Cast to ObjectId failed for value "" (type string) at path "owner" for model "Project"
+2022-03-15 17:36:06:366 
+       [31merror[39m: [31merror deleting project with id 123[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: Cast to ObjectId failed for value "" (type string) at path "owner" for model "Project"
+2022-03-15 17:36:16:3616 
+       [31merror[39m: [31merror deleting project with id 62110223136fa11f93eace83[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: Operation `projects.findOne()` buffering timed out after 10000ms
+2022-03-15 17:36:21:3621 
+       [31merror[39m: [31merror deleting project with id 62110223136fa11f93eace83[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: Operation `projects.findOne()` buffering timed out after 10000ms
+2022-03-15 17:52:05:525 
+       [31merror[39m: [31merror deleting project with id [39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: Cast to ObjectId failed for value "" (type string) at path "owner" for model "Project"
+2022-03-15 17:52:05:525 
+       [31merror[39m: [31merror deleting project with id 123[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: Cast to ObjectId failed for value "" (type string) at path "owner" for model "Project"
+2022-03-15 17:52:15:5215 
+       [31merror[39m: [31merror deleting project with id 62110223136fa11f93eace83[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: Operation `projects.findOne()` buffering timed out after 10000ms
+2022-03-15 17:52:20:5220 
+       [31merror[39m: [31merror deleting project with id 62110223136fa11f93eace83[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: Operation `projects.findOne()` buffering timed out after 10000ms
+2022-03-17 09:02:29:229 
+       [31merror[39m: [31merror deleting project with id [39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: Cast to ObjectId failed for value "" (type string) at path "owner" for model "Project"
+2022-03-17 09:02:29:229 
+       [31merror[39m: [31merror deleting project with id 123[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: Cast to ObjectId failed for value "" (type string) at path "owner" for model "Project"
+2022-03-17 09:02:39:239 
+       [31merror[39m: [31merror deleting project with id 62110223136fa11f93eace83[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: Operation `projects.findOne()` buffering timed out after 10000ms
+2022-03-17 09:02:44:244 
+       [31merror[39m: [31merror deleting project with id 62110223136fa11f93eace83[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: Operation `projects.findOne()` buffering timed out after 10000ms
+2022-03-31 12:05:21:521 
+       [31merror[39m: [31merror updating the project with id 622f97f1b7e0827575b3415c[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: the user cannot delete this proyect
+2022-03-31 12:05:21:521 
+       [31merror[39m: [31mError editing the project projects[39m 
+  
+       instance: controllers 
+
+       fn:undefined 
+
+       trace: error updating the project with id 622f97f1b7e0827575b3415c
+2022-03-31 12:05:56:556 
+       [31merror[39m: [31merror updating the project with id 622f97f1b7e0827575b3415c[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: the user cannot delete this proyect
+2022-03-31 12:05:57:557 
+       [31merror[39m: [31mError editing the project projects[39m 
+  
+       instance: controllers 
+
+       fn:undefined 
+
+       trace: error updating the project with id 622f97f1b7e0827575b3415c
+2022-03-31 12:06:05:65 
+       [31merror[39m: [31merror updating the project with id 622f97f1b7e0827575b3415c[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: the user cannot delete this proyect
+2022-03-31 12:06:05:65 
+       [31merror[39m: [31mError editing the project projects[39m 
+  
+       instance: controllers 
+
+       fn:undefined 
+
+       trace: error updating the project with id 622f97f1b7e0827575b3415c
+2022-04-19 23:15:21:1521 
+       [31merror[39m: [31merror updating the project with id 622f97f1b7e0827575b3415c[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: the user cannot delete this proyect
+2022-04-19 23:15:21:1521 
+       [31merror[39m: [31mError editing the project projects[39m 
+  
+       instance: controllers 
+
+       fn:undefined 
+
+       trace: error updating the project with id 622f97f1b7e0827575b3415c
+2022-04-19 23:15:26:1526 
+       [31merror[39m: [31merror updating the project with id 622f97f1b7e0827575b3415c[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: the user cannot delete this proyect
+2022-04-19 23:15:26:1526 
+       [31merror[39m: [31mError editing the project projects[39m 
+  
+       instance: controllers 
+
+       fn:undefined 
+
+       trace: error updating the project with id 622f97f1b7e0827575b3415c
+2022-04-19 23:15:43:1543 
+       [31merror[39m: [31merror updating the project with id 622f97f1b7e0827575b3415c[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: the user cannot delete this proyect
+2022-04-19 23:15:43:1543 
+       [31merror[39m: [31mError editing the project projects[39m 
+  
+       instance: controllers 
+
+       fn:undefined 
+
+       trace: error updating the project with id 622f97f1b7e0827575b3415c
+2022-04-19 23:16:23:1623 
+       [31merror[39m: [31merror updating the project with id 622f97f1b7e0827575b3415c[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: the user cannot delete this proyect
+2022-04-19 23:16:23:1623 
+       [31merror[39m: [31mError editing the project projects[39m 
+  
+       instance: controllers 
+
+       fn:undefined 
+
+       trace: error updating the project with id 622f97f1b7e0827575b3415c
+2022-04-19 23:16:38:1638 
+       [31merror[39m: [31merror updating the project with id 622f97f1b7e0827575b3415c[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: the user cannot delete this proyect
+2022-04-19 23:16:38:1638 
+       [31merror[39m: [31mError editing the project projects[39m 
+  
+       instance: controllers 
+
+       fn:undefined 
+
+       trace: error updating the project with id 622f97f1b7e0827575b3415c
+2022-04-19 23:23:34:2334 
+       [31merror[39m: [31merror updating the project with id 622f97f1b7e0827575b3415c[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: the user cannot delete this proyect
+2022-04-19 23:23:34:2334 
+       [31merror[39m: [31mError editing the project projects[39m 
+  
+       instance: controllers 
+
+       fn:undefined 
+
+       trace: error updating the project with id 622f97f1b7e0827575b3415c
+2022-04-21 11:32:34:3234 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m14[0m:[93m3[0m - [91merror[0m[90m TS1005: [0m'{' expected.[39m
+
+[31m[7m14[0m   sendEmailServiceNodeMailer(email, "email validation");[39m
+[31m[7m  [0m [91m  ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m14[0m:[93m3[0m - [91merror[0m[90m TS1005: [0m'{' expected.[39m
+
+[31m[7m14[0m   sendEmailServiceNodeMailer(email, "email validation");[39m
+[31m[7m  [0m [91m  ~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/services/authSendValidationUserEmail.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3513446367017452.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3513446367017452.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 12:03:04:34 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/shared/service/sendEmailServiceNodeMailer.ts[0m:[93m20[0m:[93m3[0m - [91merror[0m[90m TS2769: [0mNo overload matches this call.[39m
+[31m  The last overload gave the following error.[39m
+[31m    Argument of type '{ host: string; port: number; tls: { auth: { user: string; pass: string; }; }; }' is not assignable to parameter of type 'TransportOptions | Transport<unknown>'.[39m
+[31m      Object literal may only specify known properties, and 'host' does not exist in type 'TransportOptions | Transport<unknown>'.[39m
+
+[31m[7m20[0m   host: "smtp.ethereal.email",[39m
+[31m[7m  [0m [91m  ~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m  [96mnode_modules/@types/nodemailer/index.d.ts[0m:[93m74[0m:[93m17[0m[39m
+[31m    [7m74[0m export function createTransport<T>(transport: Transport<T> | TransportOptions, defaults?: TransportOptions): Transporter<T>;[39m
+[31m    [7m  [0m [96m                ~~~~~~~~~~~~~~~[0m[39m
+[31m    The last overload is declared here.[39m
+[31m[96msrc/shared/service/sendEmailServiceNodeMailer.ts[0m:[93m29[0m:[93m2[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m29[0m });[39m
+[31m[7m  [0m [91m ~[0m[39m
+
+[31m  [96msrc/shared/service/sendEmailServiceNodeMailer.ts[0m:[93m19[0m:[93m48[0m[39m
+[31m    [7m19[0m const transporter = nodemailer.createTransport({[39m
+[31m    [7m  [0m [96m                                               ~[0m[39m
+[31m    The parser expected to find a '}' to match the '{' token here.[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/shared/service/sendEmailServiceNodeMailer.ts[0m:[93m20[0m:[93m3[0m - [91merror[0m[90m TS2769: [0mNo overload matches this call.[39m
+[31m  The last overload gave the following error.[39m
+[31m    Argument of type '{ host: string; port: number; tls: { auth: { user: string; pass: string; }; }; }' is not assignable to parameter of type 'TransportOptions | Transport<unknown>'.[39m
+[31m      Object literal may only specify known properties, and 'host' does not exist in type 'TransportOptions | Transport<unknown>'.[39m
+
+[31m[7m20[0m   host: "smtp.ethereal.email",[39m
+[31m[7m  [0m [91m  ~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m  [96mnode_modules/@types/nodemailer/index.d.ts[0m:[93m74[0m:[93m17[0m[39m
+[31m    [7m74[0m export function createTransport<T>(transport: Transport<T> | TransportOptions, defaults?: TransportOptions): Transporter<T>;[39m
+[31m    [7m  [0m [96m                ~~~~~~~~~~~~~~~[0m[39m
+[31m    The last overload is declared here.[39m
+[31m[96msrc/shared/service/sendEmailServiceNodeMailer.ts[0m:[93m29[0m:[93m2[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m29[0m });[39m
+[31m[7m  [0m [91m ~[0m[39m
+
+[31m  [96msrc/shared/service/sendEmailServiceNodeMailer.ts[0m:[93m19[0m:[93m48[0m[39m
+[31m    [7m19[0m const transporter = nodemailer.createTransport({[39m
+[31m    [7m  [0m [96m                                               ~[0m[39m
+[31m    The parser expected to find a '}' to match the '{' token here.[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/shared/service/sendEmailServiceNodeMailer.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3513446367017452.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3513446367017452.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 13:00:01:01 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/authSignupController.ts[0m:[93m19[0m:[93m21[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.[39m
+
+[31m[7m19[0m     res.status(200).;[39m
+[31m[7m  [0m [91m                    ~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/authSignupController.ts[0m:[93m19[0m:[93m21[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.[39m
+
+[31m[7m19[0m     res.status(200).;[39m
+[31m[7m  [0m [91m                    ~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/authSignupController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-747192667132885.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-747192667132885.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 13:10:09:109 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/authSignupController.ts[0m:[93m16[0m:[93m27[0m - [91merror[0m[90m TS2304: [0mCannot find name 'authCreateUserAccountService'.[39m
+
+[31m[7m16[0m     const newUser = await authCreateUserAccountService(req.body);[39m
+[31m[7m  [0m [91m                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/authSignupController.ts[0m:[93m16[0m:[93m27[0m - [91merror[0m[90m TS2304: [0mCannot find name 'authCreateUserAccountService'.[39m
+
+[31m[7m16[0m     const newUser = await authCreateUserAccountService(req.body);[39m
+[31m[7m  [0m [91m                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/authSignupController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-747192667132885.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-747192667132885.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 13:10:14:1014 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/authSignupController.ts[0m:[93m19[0m:[93m47[0m - [91merror[0m[90m TS2339: [0mProperty 'id' does not exist on type 'void'.[39m
+
+[31m[7m19[0m     await authSendValidationUserEmail(newUser.id, req.body.email);[39m
+[31m[7m  [0m [91m                                              ~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/authSignupController.ts[0m:[93m19[0m:[93m47[0m - [91merror[0m[90m TS2339: [0mProperty 'id' does not exist on type 'void'.[39m
+
+[31m[7m19[0m     await authSendValidationUserEmail(newUser.id, req.body.email);[39m
+[31m[7m  [0m [91m                                              ~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/authSignupController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-747192667132885.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-747192667132885.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 13:10:19:1019 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/authSignupController.ts[0m:[93m19[0m:[93m47[0m - [91merror[0m[90m TS2339: [0mProperty 'id' does not exist on type 'void'.[39m
+
+[31m[7m19[0m     await authSendValidationUserEmail(newUser.id, req.body.email);[39m
+[31m[7m  [0m [91m                                              ~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/authSignupController.ts[0m:[93m19[0m:[93m47[0m - [91merror[0m[90m TS2339: [0mProperty 'id' does not exist on type 'void'.[39m
+
+[31m[7m19[0m     await authSendValidationUserEmail(newUser.id, req.body.email);[39m
+[31m[7m  [0m [91m                                              ~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/authSignupController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-747192667132885.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-747192667132885.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 13:10:25:1025 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/authSignupController.ts[0m:[93m20[0m:[93m5[0m - [91merror[0m[90m TS2304: [0mCannot find name 'res'.[39m
+
+[31m[7m20[0m     res.status(200).json({success: true});[39m
+[31m[7m  [0m [91m    ~~~[0m[39m
+[31m[96msrc/auth/controllers/authSignupController.ts[0m:[93m22[0m:[93m5[0m - [91merror[0m[90m TS2304: [0mCannot find name 'next'.[39m
+
+[31m[7m22[0m     next(new ApplicationError(400, error.message));[39m
+[31m[7m  [0m [91m    ~~~~[0m[39m
+[31m[96msrc/auth/controllers/authSignupController.ts[0m:[93m19[0m:[93m8[0m - [91merror[0m[90m TS1005: [0m'finally' expected.[39m
+
+[31m[7m19[0m       }}[39m
+[31m[7m  [0m [91m       ~[0m[39m
+[31m[96msrc/auth/controllers/authSignupController.ts[0m:[93m21[0m:[93m3[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m
+
+[31m[7m21[0m   } catch (error: any) {[39m
+[31m[7m  [0m [91m  ~[0m[39m
+[31m[96msrc/auth/controllers/authSignupController.ts[0m:[93m21[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m'try' expected.[39m
+
+[31m[7m21[0m   } catch (error: any) {[39m
+[31m[7m  [0m [91m    ~~~~~[0m[39m
+[31m[96msrc/auth/controllers/authSignupController.ts[0m:[93m24[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m
+
+[31m[7m24[0m };[39m
+[31m[7m  [0m [91m~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/authSignupController.ts[0m:[93m20[0m:[93m5[0m - [91merror[0m[90m TS2304: [0mCannot find name 'res'.[39m
+
+[31m[7m20[0m     res.status(200).json({success: true});[39m
+[31m[7m  [0m [91m    ~~~[0m[39m
+[31m[96msrc/auth/controllers/authSignupController.ts[0m:[93m22[0m:[93m5[0m - [91merror[0m[90m TS2304: [0mCannot find name 'next'.[39m
+
+[31m[7m22[0m     next(new ApplicationError(400, error.message));[39m
+[31m[7m  [0m [91m    ~~~~[0m[39m
+[31m[96msrc/auth/controllers/authSignupController.ts[0m:[93m19[0m:[93m8[0m - [91merror[0m[90m TS1005: [0m'finally' expected.[39m
+
+[31m[7m19[0m       }}[39m
+[31m[7m  [0m [91m       ~[0m[39m
+[31m[96msrc/auth/controllers/authSignupController.ts[0m:[93m21[0m:[93m3[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m
+
+[31m[7m21[0m   } catch (error: any) {[39m
+[31m[7m  [0m [91m  ~[0m[39m
+[31m[96msrc/auth/controllers/authSignupController.ts[0m:[93m21[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m'try' expected.[39m
+
+[31m[7m21[0m   } catch (error: any) {[39m
+[31m[7m  [0m [91m    ~~~~~[0m[39m
+[31m[96msrc/auth/controllers/authSignupController.ts[0m:[93m24[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m
+
+[31m[7m24[0m };[39m
+[31m[7m  [0m [91m~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/authSignupController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-747192667132885.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-747192667132885.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 14:35:14:3514 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m12[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'sendEmailService'.[39m
+
+[31m[7m12[0m     return await sendEmailService(email, "email validation", link);[39m
+[31m[7m  [0m [91m                 ~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m12[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'sendEmailService'.[39m
+
+[31m[7m12[0m     return await sendEmailService(email, "email validation", link);[39m
+[31m[7m  [0m [91m                 ~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/services/authSendValidationUserEmail.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3772795706306167.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3772795706306167.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 14:35:17:3517 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m12[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'sendEmailServiceS'.[39m
+
+[31m[7m12[0m     return await sendEmailServiceS(email, "email validation", link);[39m
+[31m[7m  [0m [91m                 ~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m12[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'sendEmailServiceS'.[39m
+
+[31m[7m12[0m     return await sendEmailServiceS(email, "email validation", link);[39m
+[31m[7m  [0m [91m                 ~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/services/authSendValidationUserEmail.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3772795706306167.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3772795706306167.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 14:35:20:3520 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m12[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'sendEmailServiceSen'.[39m
+
+[31m[7m12[0m     return await sendEmailServiceSen(email, "email validation", link);[39m
+[31m[7m  [0m [91m                 ~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m12[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'sendEmailServiceSen'.[39m
+
+[31m[7m12[0m     return await sendEmailServiceSen(email, "email validation", link);[39m
+[31m[7m  [0m [91m                 ~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/services/authSendValidationUserEmail.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3772795706306167.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3772795706306167.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 14:35:22:3522 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m12[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'sendEmailServiceSend'.[39m
+
+[31m[7m12[0m     return await sendEmailServiceSend(email, "email validation", link);[39m
+[31m[7m  [0m [91m                 ~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m12[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'sendEmailServiceSend'.[39m
+
+[31m[7m12[0m     return await sendEmailServiceSend(email, "email validation", link);[39m
+[31m[7m  [0m [91m                 ~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/services/authSendValidationUserEmail.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3772795706306167.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3772795706306167.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 14:35:24:3524 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m12[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'sendEmailServiceSendGrid'.[39m
+
+[31m[7m12[0m     return await sendEmailServiceSendGrid(email, "email validation", link);[39m
+[31m[7m  [0m [91m                 ~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m12[0m:[93m18[0m - [91merror[0m[90m TS2304: [0mCannot find name 'sendEmailServiceSendGrid'.[39m
+
+[31m[7m12[0m     return await sendEmailServiceSendGrid(email, "email validation", link);[39m
+[31m[7m  [0m [91m                 ~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/services/authSendValidationUserEmail.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3772795706306167.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3772795706306167.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 14:35:57:3557 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m13[0m:[93m43[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m13[0m     return await sendEmailServiceSendGrid(email, "email validation", link);[39m
+[31m[7m  [0m [91m                                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m13[0m:[93m43[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m13[0m     return await sendEmailServiceSendGrid(email, "email validation", link);[39m
+[31m[7m  [0m [91m                                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/services/authSendValidationUserEmail.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3772795706306167.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3772795706306167.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 14:36:03:363 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m13[0m:[93m43[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m13[0m     return await sendEmailServiceSendGrid(email, "email validation", link);[39m
+[31m[7m  [0m [91m                                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m13[0m:[93m43[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m13[0m     return await sendEmailServiceSendGrid(email, "email validation", link);[39m
+[31m[7m  [0m [91m                                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/services/authSendValidationUserEmail.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3772795706306167.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3772795706306167.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 14:36:22:3622 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m13[0m:[93m43[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m13[0m     return await sendEmailServiceSendGrid(email, "email validation", link);[39m
+[31m[7m  [0m [91m                                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m13[0m:[93m43[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m13[0m     return await sendEmailServiceSendGrid(email, "email validation", link);[39m
+[31m[7m  [0m [91m                                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/services/authSendValidationUserEmail.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3772795706306167.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3772795706306167.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 14:36:28:3628 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m14[0m:[93m7[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m14[0m       email, "email validation", link);[39m
+[31m[7m  [0m [91m      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m14[0m:[93m7[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m14[0m       email, "email validation", link);[39m
+[31m[7m  [0m [91m      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/services/authSendValidationUserEmail.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3772795706306167.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3772795706306167.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 14:36:30:3630 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m14[0m:[93m7[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m14[0m       email,[39m
+[31m[7m  [0m [91m      ~~~~~~[0m[39m
+[31m[7m15[0m       "email validation", link);[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m14[0m:[93m7[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m14[0m       email,[39m
+[31m[7m  [0m [91m      ~~~~~~[0m[39m
+[31m[7m15[0m       "email validation", link);[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/services/authSendValidationUserEmail.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3772795706306167.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3772795706306167.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 14:36:33:3633 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m14[0m:[93m7[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m14[0m       email,[39m
+[31m[7m  [0m [91m      ~~~~~~[0m[39m
+[31m[7m15[0m       "email validation",[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[7m16[0m       link);[39m
+[31m[7m  [0m [91m~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m14[0m:[93m7[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m14[0m       email,[39m
+[31m[7m  [0m [91m      ~~~~~~[0m[39m
+[31m[7m15[0m       "email validation",[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[7m16[0m       link);[39m
+[31m[7m  [0m [91m~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/services/authSendValidationUserEmail.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3772795706306167.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3772795706306167.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 14:36:41:3641 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m14[0m:[93m7[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m14[0m       email,[39m
+[31m[7m  [0m [91m      ~~~~~~[0m[39m
+[31m[7m15[0m       "email validation",[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[7m16[0m       emaillink);[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m16[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'emaillink'.[39m
+
+[31m[7m16[0m       emaillink);[39m
+[31m[7m  [0m [91m      ~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m14[0m:[93m7[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m14[0m       email,[39m
+[31m[7m  [0m [91m      ~~~~~~[0m[39m
+[31m[7m15[0m       "email validation",[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[7m16[0m       emaillink);[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m16[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'emaillink'.[39m
+
+[31m[7m16[0m       emaillink);[39m
+[31m[7m  [0m [91m      ~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/services/authSendValidationUserEmail.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3772795706306167.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3772795706306167.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 14:36:45:3645 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m14[0m:[93m7[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m14[0m       email,[39m
+[31m[7m  [0m [91m      ~~~~~~[0m[39m
+[31m[7m15[0m       "email validation",[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[7m16[0m       emailMessagelink);[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m16[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'emailMessagelink'.[39m
+
+[31m[7m16[0m       emailMessagelink);[39m
+[31m[7m  [0m [91m      ~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m14[0m:[93m7[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m14[0m       email,[39m
+[31m[7m  [0m [91m      ~~~~~~[0m[39m
+[31m[7m15[0m       "email validation",[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[7m16[0m       emailMessagelink);[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m16[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'emailMessagelink'.[39m
+
+[31m[7m16[0m       emailMessagelink);[39m
+[31m[7m  [0m [91m      ~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/services/authSendValidationUserEmail.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3772795706306167.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3772795706306167.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 14:36:47:3647 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m14[0m:[93m7[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m14[0m       email,[39m
+[31m[7m  [0m [91m      ~~~~~~[0m[39m
+[31m[7m15[0m       "email validation",[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[7m16[0m       emailMessage(link);[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m16[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'emailMessage'.[39m
+
+[31m[7m16[0m       emailMessage(link);[39m
+[31m[7m  [0m [91m      ~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m16[0m:[93m25[0m - [91merror[0m[90m TS1005: [0m')' expected.[39m
+
+[31m[7m16[0m       emailMessage(link);[39m
+[31m[7m  [0m [91m                        ~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m14[0m:[93m7[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m14[0m       email,[39m
+[31m[7m  [0m [91m      ~~~~~~[0m[39m
+[31m[7m15[0m       "email validation",[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[7m16[0m       emailMessage(link);[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m16[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'emailMessage'.[39m
+
+[31m[7m16[0m       emailMessage(link);[39m
+[31m[7m  [0m [91m      ~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m16[0m:[93m25[0m - [91merror[0m[90m TS1005: [0m')' expected.[39m
+
+[31m[7m16[0m       emailMessage(link);[39m
+[31m[7m  [0m [91m                        ~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/services/authSendValidationUserEmail.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3772795706306167.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3772795706306167.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 14:37:00:370 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m14[0m:[93m7[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m14[0m       email,[39m
+[31m[7m  [0m [91m      ~~~~~~[0m[39m
+[31m[7m15[0m       "email validation",[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[7m16[0m       emailMessage(link)[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m16[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'emailMessage'.[39m
+
+[31m[7m16[0m       emailMessage(link)[39m
+[31m[7m  [0m [91m      ~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m14[0m:[93m7[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m14[0m       email,[39m
+[31m[7m  [0m [91m      ~~~~~~[0m[39m
+[31m[7m15[0m       "email validation",[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[7m16[0m       emailMessage(link)[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m16[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'emailMessage'.[39m
+
+[31m[7m16[0m       emailMessage(link)[39m
+[31m[7m  [0m [91m      ~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/services/authSendValidationUserEmail.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3772795706306167.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3772795706306167.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 14:37:07:377 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m14[0m:[93m7[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m14[0m       email,[39m
+[31m[7m  [0m [91m      ~~~~~~[0m[39m
+[31m[7m15[0m       "email validation",[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[7m16[0m       emailMessage(link)[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m16[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'emailMessage'.[39m
+
+[31m[7m16[0m       emailMessage(link)[39m
+[31m[7m  [0m [91m      ~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m14[0m:[93m7[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m14[0m       email,[39m
+[31m[7m  [0m [91m      ~~~~~~[0m[39m
+[31m[7m15[0m       "email validation",[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[7m16[0m       emailMessage(link)[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m16[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'emailMessage'.[39m
+
+[31m[7m16[0m       emailMessage(link)[39m
+[31m[7m  [0m [91m      ~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/services/authSendValidationUserEmail.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3772795706306167.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3772795706306167.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 14:38:30:3830 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m14[0m:[93m7[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m14[0m       email,[39m
+[31m[7m  [0m [91m      ~~~~~~[0m[39m
+[31m[7m15[0m       "email validation",[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[7m16[0m       emailMessage(link)[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m16[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'emailMessage'.[39m
+
+[31m[7m16[0m       emailMessage(link)[39m
+[31m[7m  [0m [91m      ~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m14[0m:[93m7[0m - [91merror[0m[90m TS2554: [0mExpected 0 arguments, but got 3.[39m
+
+[31m[7m14[0m       email,[39m
+[31m[7m  [0m [91m      ~~~~~~[0m[39m
+[31m[7m15[0m       "email validation",[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[7m16[0m       emailMessage(link)[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/services/authSendValidationUserEmail.ts[0m:[93m16[0m:[93m7[0m - [91merror[0m[90m TS2304: [0mCannot find name 'emailMessage'.[39m
+
+[31m[7m16[0m       emailMessage(link)[39m
+[31m[7m  [0m [91m      ~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/services/authSendValidationUserEmail.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3772795706306167.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3772795706306167.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 15:17:21:1721 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-04-21 15:26:51:2651 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/shared/service/sendEmailServiceSendGrid.ts[0m:[93m30[0m:[93m1[0m - [91merror[0m[90m TS2304: [0mCannot find name 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9'.[39m
+
+[31m[7m30[0m eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/shared/service/sendEmailServiceSendGrid.ts[0m:[93m30[0m:[93m1[0m - [91merror[0m[90m TS2304: [0mCannot find name 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9'.[39m
+
+[31m[7m30[0m eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/shared/service/sendEmailServiceSendGrid.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-30458417581393205.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-30458417581393205.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 15:26:55:2655 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/shared/service/sendEmailServiceSendGrid.ts[0m:[93m30[0m:[93m1[0m - [91merror[0m[90m TS2304: [0mCannot find name 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9'.[39m
+
+[31m[7m30[0m eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyNjFiY2Q3MGZlOGM5MzMxZTMxZDY0YSIsImlhdCI6MTY1MDU3MjUwMywiZXhwIjoxNjUwNTczMTAzfQ.WJs9plXqecMs9usXEQCWtvU18paripZYQZ3qSN8uTIs[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/shared/service/sendEmailServiceSendGrid.ts[0m:[93m30[0m:[93m1[0m - [91merror[0m[90m TS2304: [0mCannot find name 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9'.[39m
+
+[31m[7m30[0m eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyNjFiY2Q3MGZlOGM5MzMxZTMxZDY0YSIsImlhdCI6MTY1MDU3MjUwMywiZXhwIjoxNjUwNTczMTAzfQ.WJs9plXqecMs9usXEQCWtvU18paripZYQZ3qSN8uTIs[39m
+[31m[7m  [0m [91m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/shared/service/sendEmailServiceSendGrid.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-30458417581393205.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-30458417581393205.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 15:52:49:5249 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/recoveryPasswordController.ts[0m:[93m18[0m:[93m11[0m - [91merror[0m[90m TS2304: [0mCannot find name 'authSendRecoverPasswordEmail'.[39m
+
+[31m[7m18[0m     await authSendRecoverPasswordEmail(user.id, user.email, user.password);[39m
+[31m[7m  [0m [91m          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/recoveryPasswordController.ts[0m:[93m18[0m:[93m11[0m - [91merror[0m[90m TS2304: [0mCannot find name 'authSendRecoverPasswordEmail'.[39m
+
+[31m[7m18[0m     await authSendRecoverPasswordEmail(user.id, user.email, user.password);[39m
+[31m[7m  [0m [91m          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/recoveryPasswordController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-5691365547611849.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-5691365547611849.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 15:56:59:5659 
+       [31merror[39m: [31muncaughtException: Cannot find module 'auth/services/authSendRecoveryPasswordEmail'[39m
+[31mRequire stack:[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/recoveryPasswordController.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/router/authRouter.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/app.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/index.ts[39m
+[31mError: Cannot find module 'auth/services/authSendRecoveryPasswordEmail'[39m
+[31mRequire stack:[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/recoveryPasswordController.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/router/authRouter.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/app.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/index.ts[39m
+[31m    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:778:27)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m
+[31m    at require (node:internal/modules/cjs/helpers:102:18)[39m
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/recoveryPasswordController.ts:4:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-5691365547611849.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-5691365547611849.js:71:20)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 16:05:49:549 
+       [31merror[39m: [31muncaughtException: Cannot find module 'auth/controllers/updatePasswordController'[39m
+[31mRequire stack:[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/router/authRouter.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/app.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/index.ts[39m
+[31mError: Cannot find module 'auth/controllers/updatePasswordController'[39m
+[31mRequire stack:[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/router/authRouter.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/app.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/index.ts[39m
+[31m    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:778:27)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m
+[31m    at require (node:internal/modules/cjs/helpers:102:18)[39m
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/router/authRouter.ts:16:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-5691365547611849.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-5691365547611849.js:71:20)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 16:05:52:552 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m3[0m:[93m39[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services' or its corresponding type declarations.[39m
+
+[31m[7m3[0m import { getOneUserByIdService } from "../../users/services";[39m
+[31m[7m [0m [91m                                      ~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m5[0m:[93m36[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services/editOneUserService' or its corresponding type declarations.[39m
+
+[31m[7m5[0m import { editOneUserService } from "../../users/services/editOneUserService";[39m
+[31m[7m [0m [91m                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m8[0m:[93m10[0m - [91merror[0m[90m TS2305: [0mModule '"../utils/tokenManager"' has no exported member 'validateAuthToken'.[39m
+
+[31m[7m8[0m import { validateAuthToken } from "../utils/tokenManager";[39m
+[31m[7m [0m [91m         ~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m3[0m:[93m39[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services' or its corresponding type declarations.[39m
+
+[31m[7m3[0m import { getOneUserByIdService } from "../../users/services";[39m
+[31m[7m [0m [91m                                      ~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m5[0m:[93m36[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services/editOneUserService' or its corresponding type declarations.[39m
+
+[31m[7m5[0m import { editOneUserService } from "../../users/services/editOneUserService";[39m
+[31m[7m [0m [91m                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m8[0m:[93m10[0m - [91merror[0m[90m TS2305: [0mModule '"../utils/tokenManager"' has no exported member 'validateAuthToken'.[39m
+
+[31m[7m8[0m import { validateAuthToken } from "../utils/tokenManager";[39m
+[31m[7m [0m [91m         ~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/updatePasswordController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-5691365547611849.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-5691365547611849.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 16:06:08:68 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m3[0m:[93m39[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services' or its corresponding type declarations.[39m
+
+[31m[7m3[0m import { getOneUserByIdService } from "../../users/services";[39m
+[31m[7m [0m [91m                                      ~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m5[0m:[93m36[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services/editOneUserService' or its corresponding type declarations.[39m
+
+[31m[7m5[0m import { editOneUserService } from "../../users/services/editOneUserService";[39m
+[31m[7m [0m [91m                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m8[0m:[93m10[0m - [91merror[0m[90m TS2305: [0mModule '"../utils/tokenManager"' has no exported member 'validateAuthToken'.[39m
+
+[31m[7m8[0m import { validateAuthToken } from "../utils/tokenManager";[39m
+[31m[7m [0m [91m         ~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m3[0m:[93m39[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services' or its corresponding type declarations.[39m
+
+[31m[7m3[0m import { getOneUserByIdService } from "../../users/services";[39m
+[31m[7m [0m [91m                                      ~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m5[0m:[93m36[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services/editOneUserService' or its corresponding type declarations.[39m
+
+[31m[7m5[0m import { editOneUserService } from "../../users/services/editOneUserService";[39m
+[31m[7m [0m [91m                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m8[0m:[93m10[0m - [91merror[0m[90m TS2305: [0mModule '"../utils/tokenManager"' has no exported member 'validateAuthToken'.[39m
+
+[31m[7m8[0m import { validateAuthToken } from "../utils/tokenManager";[39m
+[31m[7m [0m [91m         ~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/updatePasswordController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-5691365547611849.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-5691365547611849.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 16:06:09:69 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m3[0m:[93m39[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services' or its corresponding type declarations.[39m
+
+[31m[7m3[0m import { getOneUserByIdService } from "../../users/services";[39m
+[31m[7m [0m [91m                                      ~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m5[0m:[93m36[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services/editOneUserService' or its corresponding type declarations.[39m
+
+[31m[7m5[0m import { editOneUserService } from "../../users/services/editOneUserService";[39m
+[31m[7m [0m [91m                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m8[0m:[93m10[0m - [91merror[0m[90m TS2305: [0mModule '"../utils/tokenManager"' has no exported member 'validateAuthToken'.[39m
+
+[31m[7m8[0m import { validateAuthToken } from "../utils/tokenManager";[39m
+[31m[7m [0m [91m         ~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m3[0m:[93m39[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services' or its corresponding type declarations.[39m
+
+[31m[7m3[0m import { getOneUserByIdService } from "../../users/services";[39m
+[31m[7m [0m [91m                                      ~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m5[0m:[93m36[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services/editOneUserService' or its corresponding type declarations.[39m
+
+[31m[7m5[0m import { editOneUserService } from "../../users/services/editOneUserService";[39m
+[31m[7m [0m [91m                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m8[0m:[93m10[0m - [91merror[0m[90m TS2305: [0mModule '"../utils/tokenManager"' has no exported member 'validateAuthToken'.[39m
+
+[31m[7m8[0m import { validateAuthToken } from "../utils/tokenManager";[39m
+[31m[7m [0m [91m         ~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/updatePasswordController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-5691365547611849.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-5691365547611849.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 16:06:50:650 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m3[0m:[93m39[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services' or its corresponding type declarations.[39m
+
+[31m[7m3[0m import { getOneUserByIdService } from "../../users/services";[39m
+[31m[7m [0m [91m                                      ~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m5[0m:[93m36[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services/editOneUserService' or its corresponding type declarations.[39m
+
+[31m[7m5[0m import { editOneUserService } from "../../users/services/editOneUserService";[39m
+[31m[7m [0m [91m                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m8[0m:[93m10[0m - [91merror[0m[90m TS2305: [0mModule '"../utils/tokenManager"' has no exported member 'validateAuthToken'.[39m
+
+[31m[7m8[0m import { validateAuthToken } from "../utils/tokenManager";[39m
+[31m[7m [0m [91m         ~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m3[0m:[93m39[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services' or its corresponding type declarations.[39m
+
+[31m[7m3[0m import { getOneUserByIdService } from "../../users/services";[39m
+[31m[7m [0m [91m                                      ~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m5[0m:[93m36[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services/editOneUserService' or its corresponding type declarations.[39m
+
+[31m[7m5[0m import { editOneUserService } from "../../users/services/editOneUserService";[39m
+[31m[7m [0m [91m                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m8[0m:[93m10[0m - [91merror[0m[90m TS2305: [0mModule '"../utils/tokenManager"' has no exported member 'validateAuthToken'.[39m
+
+[31m[7m8[0m import { validateAuthToken } from "../utils/tokenManager";[39m
+[31m[7m [0m [91m         ~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/updatePasswordController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-5691365547611849.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-5691365547611849.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 16:06:55:655 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m3[0m:[93m39[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services' or its corresponding type declarations.[39m
+
+[31m[7m3[0m import { getOneUserByIdService } from "../../users/services";[39m
+[31m[7m [0m [91m                                      ~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m5[0m:[93m36[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services/editOneUserService' or its corresponding type declarations.[39m
+
+[31m[7m5[0m import { editOneUserService } from "../../users/services/editOneUserService";[39m
+[31m[7m [0m [91m                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m8[0m:[93m10[0m - [91merror[0m[90m TS2305: [0mModule '"../utils/tokenManager"' has no exported member 'validateAuthToken'.[39m
+
+[31m[7m8[0m import { validateAuthToken } from "../utils/tokenManager";[39m
+[31m[7m [0m [91m         ~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m3[0m:[93m39[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services' or its corresponding type declarations.[39m
+
+[31m[7m3[0m import { getOneUserByIdService } from "../../users/services";[39m
+[31m[7m [0m [91m                                      ~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m5[0m:[93m36[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services/editOneUserService' or its corresponding type declarations.[39m
+
+[31m[7m5[0m import { editOneUserService } from "../../users/services/editOneUserService";[39m
+[31m[7m [0m [91m                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m8[0m:[93m10[0m - [91merror[0m[90m TS2305: [0mModule '"../utils/tokenManager"' has no exported member 'validateAuthToken'.[39m
+
+[31m[7m8[0m import { validateAuthToken } from "../utils/tokenManager";[39m
+[31m[7m [0m [91m         ~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/updatePasswordController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-5691365547611849.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-5691365547611849.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 16:07:25:725 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m3[0m:[93m39[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services' or its corresponding type declarations.[39m
+
+[31m[7m3[0m import { getOneUserByIdService } from "../../users/services";[39m
+[31m[7m [0m [91m                                      ~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m5[0m:[93m36[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services/editOneUserService' or its corresponding type declarations.[39m
+
+[31m[7m5[0m import { editOneUserService } from "../../users/services/editOneUserService";[39m
+[31m[7m [0m [91m                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m8[0m:[93m10[0m - [91merror[0m[90m TS2305: [0mModule '"../utils/tokenManager"' has no exported member 'validateAuthToken'.[39m
+
+[31m[7m8[0m import { validateAuthToken } from "../utils/tokenManager";[39m
+[31m[7m [0m [91m         ~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m3[0m:[93m39[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services' or its corresponding type declarations.[39m
+
+[31m[7m3[0m import { getOneUserByIdService } from "../../users/services";[39m
+[31m[7m [0m [91m                                      ~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m5[0m:[93m36[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services/editOneUserService' or its corresponding type declarations.[39m
+
+[31m[7m5[0m import { editOneUserService } from "../../users/services/editOneUserService";[39m
+[31m[7m [0m [91m                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m8[0m:[93m10[0m - [91merror[0m[90m TS2305: [0mModule '"../utils/tokenManager"' has no exported member 'validateAuthToken'.[39m
+
+[31m[7m8[0m import { validateAuthToken } from "../utils/tokenManager";[39m
+[31m[7m [0m [91m         ~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/updatePasswordController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-5691365547611849.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-5691365547611849.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 16:08:29:829 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m3[0m:[93m39[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services' or its corresponding type declarations.[39m
+
+[31m[7m3[0m import { getOneUserByIdService } from "../../users/services";[39m
+[31m[7m [0m [91m                                      ~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m5[0m:[93m36[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services/editOneUserService' or its corresponding type declarations.[39m
+
+[31m[7m5[0m import { editOneUserService } from "../../users/services/editOneUserService";[39m
+[31m[7m [0m [91m                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m8[0m:[93m10[0m - [91merror[0m[90m TS2305: [0mModule '"../utils/tokenManager"' has no exported member 'validateAuthToken'.[39m
+
+[31m[7m8[0m import { validateAuthToken } from "../utils/tokenManager";[39m
+[31m[7m [0m [91m         ~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m3[0m:[93m39[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services' or its corresponding type declarations.[39m
+
+[31m[7m3[0m import { getOneUserByIdService } from "../../users/services";[39m
+[31m[7m [0m [91m                                      ~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m5[0m:[93m36[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services/editOneUserService' or its corresponding type declarations.[39m
+
+[31m[7m5[0m import { editOneUserService } from "../../users/services/editOneUserService";[39m
+[31m[7m [0m [91m                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m8[0m:[93m10[0m - [91merror[0m[90m TS2305: [0mModule '"../utils/tokenManager"' has no exported member 'validateAuthToken'.[39m
+
+[31m[7m8[0m import { validateAuthToken } from "../utils/tokenManager";[39m
+[31m[7m [0m [91m         ~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/updatePasswordController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-5691365547611849.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-5691365547611849.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 16:08:42:842 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m3[0m:[93m39[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services' or its corresponding type declarations.[39m
+
+[31m[7m3[0m import { getOneUserByIdService } from "../../users/services";[39m
+[31m[7m [0m [91m                                      ~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m5[0m:[93m36[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services/editOneUserService' or its corresponding type declarations.[39m
+
+[31m[7m5[0m import { editOneUserService } from "../../users/services/editOneUserService";[39m
+[31m[7m [0m [91m                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m21[0m:[93m28[0m - [91merror[0m[90m TS2304: [0mCannot find name 'validateAuthToken'.[39m
+
+[31m[7m21[0m     const { id: userId } = validateAuthToken(token, user.password);[39m
+[31m[7m  [0m [91m                           ~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m3[0m:[93m39[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services' or its corresponding type declarations.[39m
+
+[31m[7m3[0m import { getOneUserByIdService } from "../../users/services";[39m
+[31m[7m [0m [91m                                      ~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m5[0m:[93m36[0m - [91merror[0m[90m TS2307: [0mCannot find module '../../users/services/editOneUserService' or its corresponding type declarations.[39m
+
+[31m[7m5[0m import { editOneUserService } from "../../users/services/editOneUserService";[39m
+[31m[7m [0m [91m                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m21[0m:[93m28[0m - [91merror[0m[90m TS2304: [0mCannot find name 'validateAuthToken'.[39m
+
+[31m[7m21[0m     const { id: userId } = validateAuthToken(token, user.password);[39m
+[31m[7m  [0m [91m                           ~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/updatePasswordController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-5691365547611849.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-5691365547611849.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 16:08:47:847 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m18[0m:[93m24[0m - [91merror[0m[90m TS2304: [0mCannot find name 'getOneUserByIdService'.[39m
+
+[31m[7m18[0m     const user = await getOneUserByIdService(id);[39m
+[31m[7m  [0m [91m                       ~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m21[0m:[93m28[0m - [91merror[0m[90m TS2304: [0mCannot find name 'validateAuthToken'.[39m
+
+[31m[7m21[0m     const { id: userId } = validateAuthToken(token, user.password);[39m
+[31m[7m  [0m [91m                           ~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m24[0m:[93m29[0m - [91merror[0m[90m TS2304: [0mCannot find name 'editOneUserService'.[39m
+
+[31m[7m24[0m     const userValid = await editOneUserService({[39m
+[31m[7m  [0m [91m                            ~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m18[0m:[93m24[0m - [91merror[0m[90m TS2304: [0mCannot find name 'getOneUserByIdService'.[39m
+
+[31m[7m18[0m     const user = await getOneUserByIdService(id);[39m
+[31m[7m  [0m [91m                       ~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m21[0m:[93m28[0m - [91merror[0m[90m TS2304: [0mCannot find name 'validateAuthToken'.[39m
+
+[31m[7m21[0m     const { id: userId } = validateAuthToken(token, user.password);[39m
+[31m[7m  [0m [91m                           ~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m24[0m:[93m29[0m - [91merror[0m[90m TS2304: [0mCannot find name 'editOneUserService'.[39m
+
+[31m[7m24[0m     const userValid = await editOneUserService({[39m
+[31m[7m  [0m [91m                            ~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/updatePasswordController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-5691365547611849.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-5691365547611849.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 16:48:24:4824 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m21[0m:[93m17[0m - [91merror[0m[90m TS2552: [0mCannot find name 'object'. Did you mean 'Object'?[39m
+
+[31m[7m21[0m     console.log(object)[39m
+[31m[7m  [0m [91m                ~~~~~~[0m[39m
+
+[31m  [96mnode_modules/typescript/lib/lib.es5.d.ts[0m:[93m269[0m:[93m13[0m[39m
+[31m    [7m269[0m declare var Object: ObjectConstructor;[39m
+[31m    [7m   [0m [96m            ~~~~~~[0m[39m
+[31m    'Object' is declared here.[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m21[0m:[93m17[0m - [91merror[0m[90m TS2552: [0mCannot find name 'object'. Did you mean 'Object'?[39m
+
+[31m[7m21[0m     console.log(object)[39m
+[31m[7m  [0m [91m                ~~~~~~[0m[39m
+
+[31m  [96mnode_modules/typescript/lib/lib.es5.d.ts[0m:[93m269[0m:[93m13[0m[39m
+[31m    [7m269[0m declare var Object: ObjectConstructor;[39m
+[31m    [7m   [0m [96m            ~~~~~~[0m[39m
+[31m    'Object' is declared here.[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/updatePasswordController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-04446392235508245.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-04446392235508245.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 16:48:47:4847 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m23[0m:[93m17[0m - [91merror[0m[90m TS2552: [0mCannot find name 'object'. Did you mean 'Object'?[39m
+
+[31m[7m23[0m     console.log(object)[39m
+[31m[7m  [0m [91m                ~~~~~~[0m[39m
+
+[31m  [96mnode_modules/typescript/lib/lib.es5.d.ts[0m:[93m269[0m:[93m13[0m[39m
+[31m    [7m269[0m declare var Object: ObjectConstructor;[39m
+[31m    [7m   [0m [96m            ~~~~~~[0m[39m
+[31m    'Object' is declared here.[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m23[0m:[93m17[0m - [91merror[0m[90m TS2552: [0mCannot find name 'object'. Did you mean 'Object'?[39m
+
+[31m[7m23[0m     console.log(object)[39m
+[31m[7m  [0m [91m                ~~~~~~[0m[39m
+
+[31m  [96mnode_modules/typescript/lib/lib.es5.d.ts[0m:[93m269[0m:[93m13[0m[39m
+[31m    [7m269[0m declare var Object: ObjectConstructor;[39m
+[31m    [7m   [0m [96m            ~~~~~~[0m[39m
+[31m    'Object' is declared here.[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/updatePasswordController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-04446392235508245.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-04446392235508245.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 16:49:31:4931 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m27[0m:[93m17[0m - [91merror[0m[90m TS2552: [0mCannot find name 'object'. Did you mean 'Object'?[39m
+
+[31m[7m27[0m     console.log(object)[39m
+[31m[7m  [0m [91m                ~~~~~~[0m[39m
+
+[31m  [96mnode_modules/typescript/lib/lib.es5.d.ts[0m:[93m269[0m:[93m13[0m[39m
+[31m    [7m269[0m declare var Object: ObjectConstructor;[39m
+[31m    [7m   [0m [96m            ~~~~~~[0m[39m
+[31m    'Object' is declared here.[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m27[0m:[93m17[0m - [91merror[0m[90m TS2552: [0mCannot find name 'object'. Did you mean 'Object'?[39m
+
+[31m[7m27[0m     console.log(object)[39m
+[31m[7m  [0m [91m                ~~~~~~[0m[39m
+
+[31m  [96mnode_modules/typescript/lib/lib.es5.d.ts[0m:[93m269[0m:[93m13[0m[39m
+[31m    [7m269[0m declare var Object: ObjectConstructor;[39m
+[31m    [7m   [0m [96m            ~~~~~~[0m[39m
+[31m    'Object' is declared here.[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/updatePasswordController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-04446392235508245.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-04446392235508245.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 16:51:34:5134 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m27[0m:[93m28[0m - [91merror[0m[90m TS2304: [0mCannot find name 'validateAuthToken'.[39m
+
+[31m[7m27[0m     const { id: userId } = validateAuthToken(token, user.password);[39m
+[31m[7m  [0m [91m                           ~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m27[0m:[93m28[0m - [91merror[0m[90m TS2304: [0mCannot find name 'validateAuthToken'.[39m
+
+[31m[7m27[0m     const { id: userId } = validateAuthToken(token, user.password);[39m
+[31m[7m  [0m [91m                           ~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/updatePasswordController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-04446392235508245.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-04446392235508245.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 16:53:00:530 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m27[0m:[93m28[0m - [91merror[0m[90m TS2304: [0mCannot find name 'validateToken'.[39m
+
+[31m[7m27[0m     const { id: userId } = validateToken(token, user.password);[39m
+[31m[7m  [0m [91m                           ~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m27[0m:[93m28[0m - [91merror[0m[90m TS2304: [0mCannot find name 'validateToken'.[39m
+
+[31m[7m27[0m     const { id: userId } = validateToken(token, user.password);[39m
+[31m[7m  [0m [91m                           ~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/updatePasswordController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-04446392235508245.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-04446392235508245.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 16:53:04:534 
+       [31merror[39m: [31muncaughtException: Cannot find module 'auth/utils/tokenManager'[39m
+[31mRequire stack:[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/updatePasswordController.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/index.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/router/authRouter.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/app.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/index.ts[39m
+[31mError: Cannot find module 'auth/utils/tokenManager'[39m
+[31mRequire stack:[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/updatePasswordController.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/index.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/router/authRouter.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/app.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/index.ts[39m
+[31m    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:778:27)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m
+[31m    at require (node:internal/modules/cjs/helpers:102:18)[39m
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/updatePasswordController.ts:11:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-04446392235508245.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-04446392235508245.js:71:20)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 16:53:08:538 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m11[0m:[93m31[0m - [91merror[0m[90m TS2307: [0mCannot find module '../,,/auth/utils/tokenManager' or its corresponding type declarations.[39m
+
+[31m[7m11[0m import { validateToken } from "../,,/auth/utils/tokenManager";[39m
+[31m[7m  [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m11[0m:[93m31[0m - [91merror[0m[90m TS2307: [0mCannot find module '../,,/auth/utils/tokenManager' or its corresponding type declarations.[39m
+
+[31m[7m11[0m import { validateToken } from "../,,/auth/utils/tokenManager";[39m
+[31m[7m  [0m [91m                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/updatePasswordController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-04446392235508245.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-04446392235508245.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 16:54:37:5437 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m29[0m:[93m17[0m - [91merror[0m[90m TS2552: [0mCannot find name 'object'. Did you mean 'Object'?[39m
+
+[31m[7m29[0m     console.log(object)[39m
+[31m[7m  [0m [91m                ~~~~~~[0m[39m
+
+[31m  [96mnode_modules/typescript/lib/lib.es5.d.ts[0m:[93m269[0m:[93m13[0m[39m
+[31m    [7m269[0m declare var Object: ObjectConstructor;[39m
+[31m    [7m   [0m [96m            ~~~~~~[0m[39m
+[31m    'Object' is declared here.[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m29[0m:[93m17[0m - [91merror[0m[90m TS2552: [0mCannot find name 'object'. Did you mean 'Object'?[39m
+
+[31m[7m29[0m     console.log(object)[39m
+[31m[7m  [0m [91m                ~~~~~~[0m[39m
+
+[31m  [96mnode_modules/typescript/lib/lib.es5.d.ts[0m:[93m269[0m:[93m13[0m[39m
+[31m    [7m269[0m declare var Object: ObjectConstructor;[39m
+[31m    [7m   [0m [96m            ~~~~~~[0m[39m
+[31m    'Object' is declared here.[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/updatePasswordController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-04446392235508245.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-04446392235508245.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-04-21 16:54:42:5442 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m29[0m:[93m20[0m - [91merror[0m[90m TS1109: [0mExpression expected.[39m
+
+[31m[7m29[0m     console.log(`${}`)[39m
+[31m[7m  [0m [91m                   ~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/auth/controllers/updatePasswordController.ts[0m:[93m29[0m:[93m20[0m - [91merror[0m[90m TS1109: [0mExpression expected.[39m
+
+[31m[7m29[0m     console.log(`${}`)[39m
+[31m[7m  [0m [91m                   ~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/src/auth/controllers/updatePasswordController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-04446392235508245.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-04446392235508245.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/PROYECTO GRUPAL/foodapp-server/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]

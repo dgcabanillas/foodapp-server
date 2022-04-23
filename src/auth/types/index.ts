@@ -14,6 +14,7 @@ export type TCreateUser = {
   email: string;
   password: string;
   phoneNumber: string;
+  validate: boolean;
 }
 
 export type TLoginUser = {

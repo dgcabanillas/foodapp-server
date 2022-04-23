@@ -5,6 +5,8 @@ import { ApplicationError } from '../../shared/customErrors/ApplicationError';
 export const bodyRequestValidator =
   (schema: yup.ObjectSchema<any>) =>
   async (req: Request, _res: Response, next: NextFunction) => {
+    
+    console.log(`BODY ${req.body}`);
     try {
       await schema.validate({
         body: req.body,

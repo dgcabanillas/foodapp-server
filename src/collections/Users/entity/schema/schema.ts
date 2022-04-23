@@ -23,7 +23,7 @@ export const UserSchema = new Schema<IUser>({
   role_id: {
     type: Schema.Types.ObjectId,
     ref: 'UserRole',
-    required: [true, 'role id is required']
+    //required: [true, 'role id is required']
   },
   createdAt: {
     type: Date,
@@ -32,6 +32,10 @@ export const UserSchema = new Schema<IUser>({
   updatedAt: {
     type: Date,
   },
+  validate:{
+    type: Boolean,
+    default: false,
+  }
 });
 
 UserSchema.virtual('projects', {
