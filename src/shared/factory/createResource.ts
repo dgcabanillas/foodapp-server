@@ -1,12 +1,13 @@
 import { Model as ModelType } from 'mongoose';
 import { IToken } from '../../auth/entity/schema/authTokenSchema';
-import { ICoordinate } from '../../models/Coordinate/types';
-import { IFood } from '../../models/Food/types';
-import { IMenu } from '../../models/Menu/types';
-import { IMenuFood } from '../../models/MenuFood/types';
-import { IRestaurant } from '../../models/Restaurant/types';
-import { IUser } from '../../models/User/types';
-import { IUserRole } from '../../models/UserRole/types';
+import { ICoordinate } from '../../collections/Coordinate/types';
+import { IFood } from '../../collections/Food/entity/types/types';
+import { IMenu } from '../../collections/Menu/types';
+import { IMenuFood } from '../../collections/MenuFood/types';
+import { IRestaurant } from '../../collections/Restaurants/types';
+import { IUser } from '../../collections/Users/entity/types/type';
+import { IUserRole } from '../../collections/UserRole/types';
+import { Project } from '../../projects/entity/types/Project';
 
 export const createResource =
   <
@@ -19,6 +20,7 @@ export const createResource =
       | ModelType<IRestaurant>
       | ModelType<IUser>
       | ModelType<IUserRole>
+      | ModelType<Project>
   >(
     Model: K
   ) =>
@@ -31,6 +33,7 @@ export const createResource =
     | IRestaurant 
     | IUser 
     | IUserRole
+    | Project
   > => {
     const newResource = new Model(resource);
     return await newResource.save();

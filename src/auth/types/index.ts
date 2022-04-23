@@ -1,4 +1,4 @@
-import { IUser } from "../../models/User/types";
+import { IUser } from "../../collections/Users/entity/types/type";
 
 export type TCreateToken = {
   userId: string;
@@ -14,6 +14,7 @@ export type TCreateUser = {
   email: string;
   password: string;
   phoneNumber: string;
+  validate: boolean;
 }
 
 export type TLoginUser = {

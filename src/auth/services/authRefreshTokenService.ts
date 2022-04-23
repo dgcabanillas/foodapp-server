@@ -4,7 +4,9 @@ import {
   findOneResourceById,
 } from '../../shared/factory';
 import { TokenModel } from '../entity/model/authTokenModel';
-import { UserModel } from '../../models/User/model';
+import { UserModel } from '../../collections/Users/entity/models/model';
+import logger from '../../shared/logger/appLogger';
+
 
 export const authRefreshTokenService = async (
   userId: string,
@@ -26,6 +28,11 @@ export const authRefreshTokenService = async (
       authToken: createAuthToken({ id: userId }),
     };
   } catch (error: any) {
+    logger.error('Error renewing auth token',{
+      instance: 'services',
+      fn:'authRefreshTokenService',
+      trace:error.message,
+    });
     throw new Error(error);
   }
 };

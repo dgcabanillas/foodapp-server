@@ -1,4 +1,5 @@
 import { NextFunction, Request, Response } from 'express';
+//import { sendEmail } from '../../shared/service/sendEmailServiceSendGrid';
 import { authLoginService } from '../services';
 import { TLoginUser } from '../types';
 
@@ -16,3 +17,4 @@ export const authLogin = async (
     next(error);
   }
 };
+

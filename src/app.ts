@@ -4,23 +4,29 @@ import express, {
   Request,
   Response
 } from 'express';
+
+import cors from 'cors';
+
 import dotenv from 'dotenv';
 import morgan from 'morgan';
 
-import routerUser from '../src/models/User/routes';
-import routerUserRole from '../src/models/UserRole/routes';
-import routerFood from '../src/models/Food/routes';
-import routerCoordinate from '../src/models/Coordinate/routes';
-import routerRestaurant from '../src/models/Restaurant/routes';
+import routerUser from './collections/Users/routes/routes';
+import routerUserRole from './collections/UserRole/routes';
+import routerFood from './collections/Food/routes/routes';
+import routerCoordinate from './collections/Coordinate/routes';
+import routerRestaurant from './collections/Restaurants/routes';
 import routerAuth from '../src/auth/router/authRouter';
+import projectsRoutes from './projects/routes/projectsRouter';
 
 dotenv.config();
 
 const app: Application = express();
 
 app.use(morgan('dev'));
+app.use(cors());
 app.use(express.json());
 
+app.use(projectsRoutes);
 app.use(routerUser);
 app.use(routerUserRole);
 app.use(routerFood);
@@ -29,6 +35,10 @@ app.use(routerRestaurant);
 app.use(routerAuth);
 
 app.use(function (err: any, req: Request, res: Response, next: NextFunction) {
+
+  console.error(err.message);
+  console.log(err.statusCode);
+
   res
     .status(err.statusCode ? err.statusCode : 500)
     .send({ message: err.message, type: err.errorType });

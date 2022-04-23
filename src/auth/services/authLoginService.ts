@@ -3,7 +3,7 @@ import { TLoginUser } from '../types';
 import { createAuthToken } from '../utils/tokenManager';
 import { validatePassword } from '../utils/passwordManager';
 import { authCreateRefreshToken } from './authCreateRefreshToken';
-import { getOneUserByEmail } from '../../models/User/services/getOneUserByEmail';
+import { getOneUserByEmail } from '../../collections/Users/services/getOneUserByEmail';
 
 export type TokenResponse = {
   authToken: string;

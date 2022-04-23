@@ -1,8 +1,8 @@
 import { TCreateUser } from '../types';
 import { createResource } from '../../shared/factory/createResource';
 import { encryptPassword } from '../utils/passwordManager';
-import { UserModel } from '../../models/User/model';
-import { IUser } from '../../models/User/types';
+import { UserModel } from '../../collections/Users/entity/models/model';
+import { IUser } from '../../collections/Users/entity/types/type';
 
 export const authCreateUserService = async (
   userRequest: TCreateUser
